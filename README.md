@@ -1,4 +1,5 @@
 # Accesibilidad-Peatonal
+
 Se presentan los datos para el proyecto Análisis y valoración del impacto de la accesibilidad peatonal en la CDMX 
 
 Resumen
