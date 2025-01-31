@@ -1,0 +1,3 @@
+Robo 0.30
+Lesiones 0.10
+Atropellados 0.10 
